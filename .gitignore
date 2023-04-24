@@ -1,6 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/web
 # Edit at https://www.toptal.com/developers/gitignore?templates=web
 
+*.log
 .DS_Store
 
 # End of https://www.toptal.com/developers/gitignore/api/web
